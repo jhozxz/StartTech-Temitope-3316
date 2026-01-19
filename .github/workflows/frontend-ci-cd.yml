@@ -8,7 +8,7 @@ on:
 
 env:
   AWS_REGION: us-east-1
-  S3_BUCKET: starttech-temitope-frontend-xxxx  # REPLACE THIS with your actual bucket name from Terraform output
+  S3_BUCKET: starttech-temitope-frontend-f51f4086  # REPLACE THIS with your actual bucket name from Terraform output
   # CLOUDFRONT_ID: XXXXXX  # (Optional: Add if you want cache invalidation)
 
 jobs:
